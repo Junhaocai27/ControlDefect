@@ -1,5 +1,5 @@
 # ControlDefect
-** ICASSP 2026 ControlDefect **
+## ICASSP 2026 ControlDefect
 The complete code will be released upon paper acceptance.
 
 
